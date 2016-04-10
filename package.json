@@ -1,0 +1,11 @@
+{
+  "name": "sensor-server",
+  "version": "0.0.1",
+  "author": "Assaf Rubin",
+  "main": "src/main.js",
+  "private": true,
+  "dependencies": {
+    "express": "^4.13.4",
+    "redis": "^2.5.0-1"
+  }
+}
