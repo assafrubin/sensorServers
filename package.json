@@ -6,6 +6,18 @@
   "private": true,
   "dependencies": {
     "express": "^4.13.4",
-    "redis": "^2.5.0-1"
+    "ioredis": "^1.15.1",
+    "lodash": "^4.10.0",
+    "mysql": "^2.10.2",
+    "redis": "^2.5.0-1",
+    "sequelize": "^3.23.1"
+  },
+  "scripts": {
+    "start": "node src/main.js --env=production",
+    "start-dev": "node src/main.js"
+  },
+  "devDependencies": {
+    "autoresolve": "0.0.3",
+    "minimist": "^1.2.0"
   }
 }

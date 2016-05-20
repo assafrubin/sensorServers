@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="RUBY_MODULE" version="4">
+  <component name="CompassSettings">
+    <option name="compassExecutableFilePath" value="C:/Dev/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/compass-1.0.3/bin/compass" />
+  </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sensorServers node_modules" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.7.7, ruby-1.9.3-p545) [gem]" level="application" />
   </component>
 </module>
