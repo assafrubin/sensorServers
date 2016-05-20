@@ -2,5 +2,11 @@
   "redis": {
     "host": "127.0.0.1",
     "port": "6842"
+  },
+  "mysql": {
+    "host": "localhost",
+    "username": "root",
+    "password": "root"
+
   }
 }
