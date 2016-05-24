@@ -13,7 +13,7 @@
     "sequelize": "^3.23.1"
   },
   "scripts": {
-    "start": "node src/main.js --env=production",
+    "start": "node src/main.js --environment=production",
     "start-dev": "node src/main.js"
   },
   "devDependencies": {
